@@ -4,11 +4,11 @@ I'm a Software Engineer from São Paulo, Brazil.
 
 🏦 Currently working on PagSeguro Internet S/A as a backend developer.
 
-🖱️ I use daily: C\C++, Golang, Java, MySQL, Jenkins, Splunk
+🖱️  I use daily: C\C++, Golang, Java, MySQL, Jenkins, Splunk
 
 ⌨️ I also know: Python, C#, Tableau, MQL5
 
-💡 Currently learning about Data Science, Python and finance
+💡  Currently learning about Data Science, Python and finance
 
 📝 Degree in computer engineering from the University of São Paulo
 
