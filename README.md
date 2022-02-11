@@ -2,16 +2,16 @@
 
 I'm a Software Engineer from São Paulo, Brazil.
 
-🏦 Currently working on <b>PagSeguro Internet S/A</b> as a backend developer.
+🏦 Currently working on <b>Habitat Capital Partnets</b> as a fullstack developer.
 
-🖱️  I use daily: <b>C\C++, Golang, Java, MySQL, Jenkins, Splunk</b>
+🖱️  I use daily: <b>Python, Javascript, MySQL</b>
 
-⌨️ I also know: <b>Python, C#, Tableau, MQL5</b>
+⌨️ I also know: <b>C\C++, Java, Jenkins</b>
 
-💡  Currently learning about <b>Data Science, Python</b> and <b>finance</b>
+💡  Currently learning about <b>Data Science, Creative Programming, Pixel Art</b> and <b>finance</b>
 
 📝 Degree in computer engineering from the <b>University of São Paulo</b>
 
-🎸 Interests and Hobbies: <b>Literature enthusiast, piano and guitar player, indoor climber beginner </b>
+🎸 Interests and Hobbies: <b>Literature enthusiast, piano and guitar player, indoor climber </b>
 
 📩 Reach me: https://www.linkedin.com/in/christian-kedor-89264779/
