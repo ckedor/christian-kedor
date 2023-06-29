@@ -2,13 +2,13 @@
 
 I'm a Software Engineer from São Paulo, Brazil.
 
-🏦 Currently working on <b>Habitat Capital Partnets</b> as a fullstack developer.
+🏦 Currently working on <b>XP Investimentos</b> as a fullstack developer.
 
-🖱️  I use daily: <b>Python, Javascript, MySQL</b>
+🖱️  I use daily: <b>.Net Core, C#, Python, React, Typescript, SqlServer, Azure Devops</b>
 
-⌨️ I also know: <b>C\C++, Java, Jenkins</b>
+⌨️ I also know: <b>MySql, Jenkins, Angular, Flask, Django Rest-Framework</b>
 
-💡  Currently learning about <b>Data Science, Creative Programming, Pixel Art</b> and <b>finance</b>
+💡  Currently learning about <b>Data Science, Creative Programming, Pixel Art</b> and <b>Finance</b>
 
 📝 Degree in computer engineering from the <b>University of São Paulo</b>
 
